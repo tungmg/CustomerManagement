@@ -1,5 +1,7 @@
 # Create Quarkus project
+
 mvn io.quarkus:quarkus-maven-plugin:1.13.2.Final:create -DprojectGroupId=com.viettel -DprojectArtifactId=CustomerManagement
+
 # CustomerManagement project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
